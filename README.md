@@ -58,11 +58,4 @@ python -m pip install -r requirements.txt
 - Add your suggestion as an issue or open a discussion in this repo.
 - If you'd like to co-author a tutorial or demo, open an issue with the idea and timeline.
 
-## Contact (fill in your preferred links)
 
-- LinkedIn: (add link)
-- Email: (add email)
-
----
-
-If anything reads as too generic or you'd like the voice adjusted further (shorter, more technical, or more personal anecdotes), tell me which sections to tune and I'll update them.
