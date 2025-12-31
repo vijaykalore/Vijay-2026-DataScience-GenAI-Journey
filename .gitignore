@@ -1,0 +1,9 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+# Virtualenv
+venv/
+.env
+# Data
+/data/
+/models/
