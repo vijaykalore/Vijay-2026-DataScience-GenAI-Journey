@@ -1,0 +1,25 @@
+﻿# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Deep learning
+torch
+transformers
+datasets
+sentence-transformers
+
+# LLMOps & infra
+langchain
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+
+# Utilities
+jupyter
+jupyterlab
+notebook

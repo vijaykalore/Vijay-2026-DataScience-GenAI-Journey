@@ -1,0 +1,9 @@
+﻿name: vijay-2026-genai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - -r requirements.txt
